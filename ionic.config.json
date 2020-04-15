@@ -1,5 +1,7 @@
 {
   "name": "sampleOpenApp",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
